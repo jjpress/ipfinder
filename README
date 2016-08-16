@@ -1,4 +1,4 @@
-This is a simple library to get an external IP by HTTPS.
+This is a simple Python library to get an external IP by HTTPS.
 
 Example:
     import ipfinder
