@@ -15,7 +15,7 @@ setup(
     author_email = "yabut.joshua@gmail.com",
     description = ("Simple library to grab an external IP using HTTPS."),
     install_requires = ["requests"],
-    license = "BSD",
+    license = "MIT",
     keywords = "iplookup ip find whois",
     url = "http://packages.python.org/ipfinder",
     py_modules=['ipfinder'],
